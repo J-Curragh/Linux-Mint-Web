@@ -9,7 +9,7 @@ const Wallpaper = () => (
         src="/background.png"
         layout="fill"
         objectFit="cover"
-        quality={100}
+        quality={quality}
       />
     </div>
     <p className="m-0 text-white text-3xl leading-10 text-center shadow-black pt-40">
